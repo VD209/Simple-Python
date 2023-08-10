@@ -1,0 +1,7 @@
+# To Check weather a Number is odd or even by taking User Input
+def Check():
+    if int(input()) % 2 == 0 :
+        print('Even')
+    else:
+        print('Odd')
+    
