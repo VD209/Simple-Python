@@ -1,0 +1,5 @@
+def per():
+    x = int(input())
+    total = int(input())
+    y = (x/total)*100
+    return print(y,'%')
