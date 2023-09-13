@@ -1,0 +1,7 @@
+def prob():
+    print("No Of events occured")
+    No_of_events_occured = int(input())
+    print("Total No of Events")
+    Total_No_of_events = int(input())
+    probability = No_of_events_occured/Total_No_of_events
+    return probability
